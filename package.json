@@ -33,6 +33,10 @@
     "webpack-merge": "^4.2.2"
   },
   "dependencies": {
+    "eslint": "^8.42.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-import-resolver-alias": "^1.1.2",
+    "eslint-plugin-import": "^2.27.5",
     "phaser": "^3.60.0"
   }
 }
